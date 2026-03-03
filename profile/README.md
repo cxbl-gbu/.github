@@ -1,4 +1,4 @@
-# Welcome to the Computational and Experimental biomolecular Lab (CxBL) 👋
+# Welcome to the Computational and Experimental biomolecular Lab (CxBL) 
 
 We are based at **Gujarat Biotechnology University (GBU)**, focusing on the intersection of structural biology, machine learning, and computational bio-discovery. 
 
